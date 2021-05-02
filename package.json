@@ -11,5 +11,7 @@
   },
   "resolutions": {
     "@babel/preset-env": "7.13.8"
-  }
+  },
+  "repository": "https://github.com/miomaeshima/huckleberry.git",
+  "license": "MIT"
 }
